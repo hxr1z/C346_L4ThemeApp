@@ -4,7 +4,7 @@ import Game from './Game.js';
 
 const Ratings = () => {
     return (
-        <ScrollView style={{marginTop:60, marginBottom:50}}>
+        <ScrollView style={{marginTop:60, marginBottom:60}}>
             <View>
                 <Text style={{fontWeight: 'bold',fontSize: 20, textAlign: 'center' }}> Hariz's Game Ratings</Text>
             </View>
